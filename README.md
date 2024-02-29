@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" >
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
 - 🌱 I’m currently learning **Flutter, React, .net(MVC)**
 
 - 💬 Ask me about **js, c, c++, java, c#**
