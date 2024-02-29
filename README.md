@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-adhikari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anish-adhikari1/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@anish734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@anish734" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@anish734" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ft8J-mRlYZOZBv8Pf5HOYKe4a_LvhHcnHSNmL-Hmxv1JoIxSQF9JPPvxyA&s" alt="https://www.hackerearth.com/@anish734" height="30" width="40" /></a>
 </p>
 <br>
 
