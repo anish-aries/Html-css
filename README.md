@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @nish.</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 <br>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" >
+<img src="WIN_20230915_05_29_54_Pro.jpg" align="right" alt="Coding" width="400" >
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
