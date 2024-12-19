@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm @nish.</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <br>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
-- 🌱 I’m currently learning **Flutter, React, .net(MVC)**
+- 🌱 I’m currently learning **AI ML, React, .net(MVC)**
 
 - 💬 Ask me about **js, c, c++, java, c#**
 
